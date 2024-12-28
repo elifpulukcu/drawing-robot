@@ -146,3 +146,9 @@ Include any relevant images to show off the shapes. For instance:
 This project is distributed under the terms of the [MIT License](./LICENSE).  
 Any external libraries (SFML, TGUI) maintain their own respective licenses.  
 Contributions are welcome under the same license conditions.
+
+---
+
+## Author
+
+Developed by [Elif Pulukçu](https://github.com/elifpulukcu).
